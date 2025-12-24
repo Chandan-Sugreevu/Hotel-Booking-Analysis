@@ -1,4 +1,4 @@
-# hotel-booking-analysis
+# Hotel-Booking-Analysis
 
 This repository provides a complete pipeline for hotel booking analytics and network optimization. It covers robust data preparation, exploratory analysis, feature engineering, and predictive modeling designed to support geographic expansion, rate negotiation, and inventory risk management.
 
